@@ -1,0 +1,166 @@
+{
+     "job": 1899440,
+     "ignored_fields": {},
+     "id": 1899440,
+     "type": "job",
+     "url": "/api/v2/jobs/1899440/",
+     "summary_fields": {
+          "organization": {
+               "id": 57,
+               "name": "Bfacsasdsdsa",
+               "description": ""
+          },
+          "inventory": {
+               "id": 1,
+               "name": "Workers",
+               "description": "",
+               "has_active_failures": true,
+               "total_hosts": 2,
+               "hosts_with_active_failures": 1,
+               "total_groups": 0,
+               "has_inventory_sources": false,
+               "total_inventory_sources": 0,
+               "inventory_sources_with_failures": 0,
+               "organization_id": 1,
+               "kind": ""
+          },
+          "project": {
+               "id": 236,
+               "name": "Bu4242424",
+               "description": "P424242",
+               "status": "su4234242",
+               "scm_type": "g42424"
+          },
+          "job_template": {
+               "id": 6667,
+               "name": "pro4242424",
+               "description": "Au42424242"
+          },
+          "unified_job_template": {
+               "id": 6667,
+               "name": "prod4242420",
+               "description": "424242",
+               "unified_job_type": "job"
+          },
+          "created_by": {
+               "id": 446,
+               "username": "a42424",
+               "first_name": "W3423",
+               "last_name": "4242"
+          },
+          "modified_by": {
+               "id": 446,
+               "username": "42422",
+               "first_name": "4234dfsc",
+               "last_name": "234dwdw"
+          },
+          "user_capabilities": {
+               "delete": false,
+               "start": true
+          },
+          "labels": {
+               "count": 0,
+               "results": []
+          },
+          "extra_credentials": [
+               {
+                    "id": 709,
+                    "name": "fdfdfdfdfd",
+                    "description": "",
+                    "kind": null,
+                    "cloud": true
+               },
+               {
+                    "id": 1458,
+                    "name": "GTP VAT",
+                    "description": "",
+                    "kind": null,
+                    "cloud": true
+               },
+               {
+                    "id": 1185,
+                    "name": "P32534543535nts",
+                    "description": "C323232TP323232NTS",
+                    "kind": null,
+                    "cloud": true
+               }
+          ],
+          "credentials": [
+               {
+                    "id": 709,
+                    "name": "535353535344dfdf",
+                    "description": "",
+                    "kind": null,
+                    "cloud": true
+               },
+               {
+                    "id": 1458,
+                    "name": "GTP VAT",
+                    "description": "",
+                    "kind": null,
+                    "cloud": true
+               },
+               {
+                    "id": 1185,
+                    "name": "PROD - BB Release Storage Accounts",
+                    "description": "CTPE RELEASE STORAGE ACCOUNTS",
+                    "kind": null,
+                    "cloud": true
+               },
+               {
+                    "id": 1,
+                    "name": "Tower Credential",
+                    "description": "Ansiwewewew",
+                    "kind": "ssh",
+                    "cloud": false
+               }
+          ]
+     },
+     "created": "2021-09-21T07:19:34.286856Z",
+     "modified": "2021-09-21T07:19:34.378681Z",
+     "name": "prewewewe",
+     "description": "Automatically generated job template from release pipeline resource: resource-group",
+     "job_type": "run",
+     "inventory": 1,
+     "project": 236,
+     "playbook": "resource-group/V1ewewewegroup.yml",
+     "scm_branch": "",
+     "forks": 0,
+     "limit": "",
+     "verbosity": 0,
+     "job_tags": "",
+     "force_handlers": false,
+     "skip_tags": "",
+     "start_at_task": "",
+     "timeout": 0,
+     "use_fact_cache": false,
+     "organization": 57,
+     "unified_job_template": 6667,
+     "launch_type": "manual",
+     "status": "pending",
+     "failed": false,
+     "started": null,
+     "finished": null,
+     "canceled_on": null,
+     "elapsed": 0.0,
+     "job_args": "",
+     "job_cwd": "",
+     "job_env": {},
+     "job_explanation": "",
+     "execution_node": "",
+     "controller_node": "",
+     "result_traceback": "",
+     "event_processing_finished": false,
+     "job_template": 6667,
+     "passwords_needed_to_start": [],
+     "allow_simultaneous": true,
+     "artifacts": {},
+     "scm_revision": "",
+     "instance_group": null,
+     "diff_mode": false,
+     "job_slice_number": 0,
+     "job_slice_count": 1,
+     "webhook_service": "",
+     "webhook_credential": null,
+     "webhook_guid": ""
+}
